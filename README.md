@@ -4,7 +4,9 @@ Projeto de dispositivo para **geolocalização** e monitoramento no combate a in
 
 ---
 
-## 🔥 Ilustração Dramática
+## 🔥 Ilustrações
+
+![mapa digital](https://github.com/Cati94/fire-fighting-geolocation-device/blob/main/Mapa%20Digital%20de%20Emerg%C3%AAncia%20(1).png)
 
 ![Bombeiro com mapa digital](https://github.com/Cati94/fire-fighting-geolocation-device/blob/main/fire.png)
 
